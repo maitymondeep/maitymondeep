@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello👋 I'm Mondeep Maity 👨🏻‍💻
 
-I am a Sr Cloud DevOps Engineer & Polyglot Programmer from India 🇮🇳 and a Tech Blogger [@maitymondeep](https://medium.com/@maity.mondeep)
+I am a Sr Cloud DevOps Engineer & currently living in Berlin and a Tech Blogger [@maitymondeep](https://medium.com/@maity.mondeep)
 
 ### Currently I am working with ...
 
